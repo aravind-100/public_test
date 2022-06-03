@@ -1,1 +1,2 @@
-let name = "first";
+let name = "first_1";
+let name_ = "first_2";
